@@ -4,6 +4,7 @@
   "description": "Web Programming course boilerplate",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/olistic/web-programming-boilerplate/issues"
   },
-  "homepage": "https://github.com/olistic/web-programming-boilerplate#readme"
+  "homepage": "https://github.com/olistic/web-programming-boilerplate#readme",
+  "devDependencies": {
+    "@ucudal/eslint-config": "^0.1.0",
+    "eslint": "^5.3.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
 }
