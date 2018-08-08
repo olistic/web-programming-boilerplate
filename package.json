@@ -1,0 +1,19 @@
+{
+  "name": "web-programming-boilerplate",
+  "version": "0.0.0",
+  "description": "Web Programming course boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olistic/web-programming-boilerplate.git"
+  },
+  "author": "Matias Olivera <molivera@ucu.edu.uy>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olistic/web-programming-boilerplate/issues"
+  },
+  "homepage": "https://github.com/olistic/web-programming-boilerplate#readme"
+}
