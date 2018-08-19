@@ -3,5 +3,5 @@
     "jest": true,
     "node": true
   },
-  "extends": ["@ucudal", "plugin:prettier/recommended"]
+  "extends": ["@ucudal/eslint-config", "plugin:prettier/recommended"]
 }
