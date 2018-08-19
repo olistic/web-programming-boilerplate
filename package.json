@@ -29,6 +29,8 @@
     "eslint-plugin-prettier": "^2.6.2",
     "jest": "^23.5.0",
     "prettier": "^1.14.2",
-    "stylelint": "^9.4.0"
+    "stylelint": "^9.4.0",
+    "stylelint-config-prettier": "^4.0.0",
+    "stylelint-prettier": "^0.2.2"
   }
 }
