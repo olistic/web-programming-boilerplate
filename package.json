@@ -8,7 +8,7 @@
     "lint:css": "stylelint **/*.css",
     "lint": "npm-run-all --parallel lint:*",
     "pretest": "npm run lint",
-    "test": "jest"
+    "test": "jest --passWithNoTests"
   },
   "repository": {
     "type": "git",
