@@ -1,7 +1,7 @@
 {
-  "name": "web-programming-boilerplate",
+  "name": "lu2-exercise",
   "version": "0.0.0",
-  "description": "Web Programming course boilerplate",
+  "description": "LU-2 exercise",
   "main": "index.js",
   "scripts": {
     "lint:js": "eslint .",
@@ -10,16 +10,8 @@
     "pretest": "npm run lint",
     "test": "jest --passWithNoTests"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/olistic/web-programming-boilerplate.git"
-  },
   "author": "Matias Olivera <javier.olivera@ucu.edu.uy>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/olistic/web-programming-boilerplate/issues"
-  },
-  "homepage": "https://github.com/olistic/web-programming-boilerplate#readme",
   "devDependencies": {
     "@ucudal/eslint-config": "^0.2.0",
     "@ucudal/stylelint-config": "^0.1.0",

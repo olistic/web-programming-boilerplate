@@ -1,2 +1,1 @@
-# web-programming-boilerplate
-Web Programming course boilerplate
+# LU-2 exercise
